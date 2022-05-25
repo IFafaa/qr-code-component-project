@@ -41,7 +41,8 @@ body{
 }
 
 /*Conteudo / textos / p*/
-.text_title{
+h1{
+    font-size: 1.1em;
     font-weight: 700;
     color: hsl(218, 44%, 22%);
     padding: 20px;
