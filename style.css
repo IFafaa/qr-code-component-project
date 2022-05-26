@@ -3,17 +3,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
 
 /*Configurações Globais*/
-*{
+* {
     margin: 0;
     padding: 0;
 }
 
 /*estilização*/
-body{
-    background-color: hsl(212, 45%, 89%);  
+body {
+    background-color: hsl(212, 45%, 89%);
 }
 
-header{
+header {
     text-align: center;
     font-family: outfit;
     color: white;
@@ -21,24 +21,24 @@ header{
     padding: 5px;
 }
 
-header a{
+header a {
     color: blue;
 }
 
-header a:hover{
+header a:hover {
     color: rgb(42, 13, 71);
 }
 
 /*Configuração para a responsividade e centralizaçao*/
-#container{
+#container {
     display: flex;
     justify-content: center;
     align-items: center;
-    
+
     height: 96vh;
 }
 
-#general_box{
+#general_box {
     background-color: white;
     border-radius: 10px;
     font-family: Outfit;
@@ -51,20 +51,20 @@ header a:hover{
 }
 
 /*QRcode*/
-#QRcode_image{
+#QRcode_image {
     width: 250px;
     border-radius: 10px;
 }
 
 /*Conteudo / textos / p*/
-h1{
+h1 {
     font-size: 1.1em;
     font-weight: 700;
     color: hsl(218, 44%, 22%);
     padding: 20px;
 }
 
-p{
+p {
     font-weight: 400;
     color: hsl(220, 15%, 55%);
     text-align: center;
