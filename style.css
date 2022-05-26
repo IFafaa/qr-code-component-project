@@ -13,6 +13,22 @@ body{
     background-color: hsl(212, 45%, 89%);  
 }
 
+header{
+    text-align: center;
+    font-family: outfit;
+    color: white;
+    font-size: 0.8em;
+    padding: 5px;
+}
+
+header a{
+    color: blue;
+}
+
+header a:hover{
+    color: rgb(42, 13, 71);
+}
+
 /*Configuração para a responsividade e centralizaçao*/
 #container{
     display: flex;
