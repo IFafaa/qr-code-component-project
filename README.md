@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H]
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-with-html-and-css-vjE81csVMH]
 - Live Site URL: [https://ifafaa.github.io/qr-code-component-project/]
 
 
